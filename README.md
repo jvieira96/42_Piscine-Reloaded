@@ -9,7 +9,7 @@ This repository contains exercises from the **Piscine Reload** program at 42. Th
 ## Contents
 
 - **Exercises:** Revisited piscine challenges with improvements and optimizations.
-- 
+
 ---
 
 ## Technologies
